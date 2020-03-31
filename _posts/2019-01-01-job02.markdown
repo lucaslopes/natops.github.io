@@ -1,7 +1,7 @@
 ---
 layout: null
-title: May 2011 - May 2015
+title: June 2019 - November 2019
 subtitle:
 image: "img/timeline/babynana.jpg"
 ---
-SysAdmin
+DevOps Engineer

@@ -1,7 +1,7 @@
 ---
 layout: null
-title: May 2011 - May 2015
+title: March 2018 - May 2018
 subtitle:
 image: "img/timeline/babynana.jpg"
 ---
-SysAdmin
+Software Developer

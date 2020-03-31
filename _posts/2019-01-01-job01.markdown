@@ -1,8 +1,7 @@
 ---
 layout: null
-title: August 2009 - September 2011
+title: March 2019 - May 2019
 subtitle:
 image: "img/timeline/babynana.jpg"
 ---
-Support IT - Intership
-Porto Alegre | RS | Brazil
+Software Developer
