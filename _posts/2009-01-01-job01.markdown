@@ -2,6 +2,6 @@
 layout: null
 title: August 2009 - September 2011
 subtitle:
-image: "img/timeline/babynana.jpg"
+image: "img/timeline/foto03.png"
 ---
 Support IT

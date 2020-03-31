@@ -2,6 +2,6 @@
 layout: null
 title: June 2019 - November 2019
 subtitle:
-image: "img/timeline/babynana.jpg"
+image: "img/timeline/foto01.png"
 ---
 DevOps Engineer

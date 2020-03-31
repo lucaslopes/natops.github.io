@@ -2,7 +2,7 @@
 layout: null
 title: January
 subtitle:
-image: "img/timeline/babynana.jpg"
+image: "img/timeline/2020.png"
 ---
 I moved to Irelan...
 And I don't have a job yet. 

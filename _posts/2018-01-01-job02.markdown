@@ -2,6 +2,6 @@
 layout: null
 title: July 2018 - February 2019
 subtitle:
-image: "img/timeline/babynana.jpg"
+image: "img/timeline/foto05.png"
 ---
 Software Developer
