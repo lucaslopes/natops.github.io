@@ -4,5 +4,5 @@ title: January
 subtitle:
 image: "img/timeline/2020.png"
 ---
-I moved to Irelan...
+I moved to Ireland
 And I don't have a job yet. 
